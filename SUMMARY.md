@@ -6,4 +6,5 @@
 * [Пример](primer/README.md)
   * [Решение](primer/reshenie.md)
   * [Решение ЭВМ](primer/reshenie-evm.md)
+* [Литература](literatura.md)
 
